@@ -1,0 +1,28 @@
+min:
+  exp: 5
+  money: 1000
+  msgExp: "&a可怜人 就不扣你经验了"
+  msgMoney: "&a可怜人 就不扣你钱了"
+
+default:
+  exp: 70
+  money: 70
+  msg: "&c你死了! 扣除了70%金币 70%经验值 不要再死啦!!! 你还剩 %money% 金币 %exp% 级经验"
+
+permission:
+  vip:
+    exp: 70
+    money: 70
+    msg: "&c你死了! 扣除了60%金币 60%经验值 不要再死啦!!!"
+  svip:
+    exp: 60
+    money: 60
+    msg: "&c你死了! 扣除了50%金币 50%经验值 不要再死啦!!!"
+  mvp:
+    exp: 50
+    money: 50
+    msg: "&c你死了! 扣除了40%金币 40%经验值 不要再死啦!!!"
+
+
+
+

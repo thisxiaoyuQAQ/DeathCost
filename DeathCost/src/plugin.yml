@@ -1,0 +1,7 @@
+name: DeathCost
+main: xiaoyu.DeathCost
+version: 1.0
+depend: [Vault]
+commands:
+  deathcost:
+    description: "cpdd 你是其一"
